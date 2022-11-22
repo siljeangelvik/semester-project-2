@@ -46,8 +46,11 @@ but I wish to implement it in my "routine" early on.
 
 ### CSS Processor: SASS/SCSS or PostCSS
 SASS / PostCSS
-### CSS Framework: TailWind
-Tailwind / Bootstrap
+### CSS Framework: [TailWind](https://tailwindcss.com/docs/guides/vite)
+Tailwind / Bootstrap  
+`$ npm install -D tailwindcss postcss autoprefixer`  
+`$ npx tailwindcss init -p`  
+
 ### Hosting Services: Netlify
 Netlify / GitHub Pages
 ### Planning Application: Trello
