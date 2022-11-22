@@ -47,9 +47,9 @@ but I wish to implement it in my "routine" early on.
 ### CSS Processor: SASS/SCSS or PostCSS
 SASS / PostCSS
 ### CSS Framework: [TailWind](https://tailwindcss.com/docs/guides/vite)
-Tailwind / Bootstrap  
-`$ npm install -D tailwindcss postcss autoprefixer`  
-`$ npx tailwindcss init -p`  
+Tailwind / Bootstrap    
+`$ yarn add -D tailwindcss postcss autoprefixer`    
+`$ yarn tailwindcss init -p`    
 
 ### Hosting Services: Netlify
 Netlify / GitHub Pages
@@ -59,13 +59,11 @@ Trello / GitHub Project
 ---
 ### Resources
 [Digital Ocean: Vite](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)  
-
+[Setup Tailwind with Yarn](https://dev.to/ashirbadgudu/set-up-tailwind-css-with-create-react-app-and-yarn-pio)  
 
 ### Tools
 [Hex Color Picker](https://imagecolorpicker.com/en)  
 [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)  
 
 ### Docs
-[Vite](https://vitejs.dev/guide/features.html)  
-
-
+[Vite](https://vitejs.dev/guide/features.html)
