@@ -46,6 +46,6 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
-      - name: Deploy to Production
+      - name: Deploy to Pages
         id: deployment
         uses: actions/deploy-pages@v1
