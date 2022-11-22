@@ -70,7 +70,7 @@ Netlify / GitHub Pages
 [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)  
 
 ### Docs
-[Vite](https://vitejs.dev/guide/features.html)
-[Tailwind with Vite](https://tailwindcss.com/docs/guides/vite)  
+[Vite](https://vitejs.dev/guide/features.html)  
+[Tailwind with Vite](https://tailwindcss.com/docs/guides/vite)    
 Tailwind  
 [PostCSS](https://postcss.org/)  
