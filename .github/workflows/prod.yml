@@ -1,10 +1,10 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Production
+name: Deploy
 
 on:
   # Runs on pushes targeting the default (workflow) branch
   push:
-    branches: [ "production" ]
+    branches: [ "main" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -24,16 +24,16 @@ jobs:
   # Single deploy job since we're just deploying
   deploy:
     environment:
-      name: github-prod
+      name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Install Dependencies
-        run: npm i
-      - name: Build SASS and Vite
-        run: npm run build
+        run: yarn install
+      - name: Build Vite
+        run: vite build
       - name: Setup Pages
         uses: actions/configure-pages@v2
       # - name: Cypress run

@@ -2,8 +2,7 @@
 _semester-project-2_
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8351bb72-cb2f-4acd-9641-31a9d3ca7da8/deploy-status)](https://app.netlify.com/sites/angelvik-semester-project-2/deploys)      
-`Production`: ![production](https://github.com/siljeangelvik/semester-project-2/actions/workflows/prod.yml/badge.svg)      
-`Development`: ![main](https://github.com/siljeangelvik/semester-project-2/actions/workflows/dev.yml/badge.svg)  
+`Deploy`: ![main](https://github.com/siljeangelvik/semester-project-2/actions/workflows/deploy.yml/badge.svg)  
 
 ### Resources
 
