@@ -1,7 +1,7 @@
 # Semester Project 2
 _semester-project-2_
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8351bb72-cb2f-4acd-9641-31a9d3ca7da8/deploy-status)](https://app.netlify.com/sites/semester-project-2/deploys)      
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8351bb72-cb2f-4acd-9641-31a9d3ca7da8/deploy-status)](https://app.netlify.com/sites/angelvik-semester-project-2/deploys)      
 `Production`: ![production](https://github.com/siljeangelvik/semester-project-2/actions/workflows/prod.yml/badge.svg)      
 `Development`: ![main](https://github.com/siljeangelvik/semester-project-2/actions/workflows/dev.yml/badge.svg)  
 
@@ -12,8 +12,8 @@ Gantt Chart:
 Design Prototype: [Figma Prototype](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=2%3A2&t=H3mrxOhAxbzwXgIE-0)    
 Style Guide: Figma Style Tile  
 Kanban Board: [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)    
-Repository: [semesterproject2-1](https://github.com/siljeangelvik/semester-project-2)    
-Hosted Demo: [semesterproject2-angelvik](https://semester-project-2.netlify.app/)  
+Repository: [semester-project-2](https://github.com/siljeangelvik/semester-project-2)    
+Hosted Demo: [angelvik-semester-project-2](https://angelvik-semester-project-2.netlify.app/)  
 
 ---
 
@@ -45,17 +45,20 @@ increased speed when installing modules, as well as simplified commands.
 It might not be as beneficial right now, making small projects,  
 but I wish to implement it in my "routine" early on.
 
-### CSS Processor: SASS/SCSS or PostCSS
-SASS / PostCSS
+### CSS Processor: [PostCSS](https://postcss.org/)
+SASS / PostCSS  
+
 ### CSS Framework: [TailWind](https://tailwindcss.com/docs/guides/vite)
 Tailwind / Bootstrap    
 `$ yarn add -D tailwindcss postcss autoprefixer`    
 `$ yarn tailwindcss init -p`    
 
-### Hosting Services: Netlify
-Netlify / GitHub Pages
-### Planning Application: Trello
-Trello / GitHub Project
+### Hosting Services: [Netlify](https://angelvik-semester-project-2.netlify.app/)
+Netlify / GitHub Pages  
+
+**Branch to Deploy:** `main`  
+**Build command:** `yarn build`  
+**Publish Directory:** `dist`  
 
 ---
 ### Resources
@@ -69,3 +72,5 @@ Trello / GitHub Project
 ### Docs
 [Vite](https://vitejs.dev/guide/features.html)
 [Tailwind with Vite](https://tailwindcss.com/docs/guides/vite)  
+Tailwind  
+[PostCSS](https://postcss.org/)  
