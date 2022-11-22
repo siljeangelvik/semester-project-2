@@ -58,10 +58,11 @@ Trello / GitHub Project
 [Digital Ocean: Vite](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)  
 
 
-
 ### Tools
 [Hex Color Picker](https://imagecolorpicker.com/en)  
 [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)  
 
 ### Docs
+[Vite](https://vitejs.dev/guide/features.html)  
+
 
