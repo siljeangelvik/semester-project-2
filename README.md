@@ -23,8 +23,14 @@ Used Adobe-Wheel to add a secondary and tertiary color.
 <img alt="adobe-color-wheel" src="resources/images/color-wheel.png" width="300">
 
 ---
-## Tools
+### Resources
+[Digital Ocean: Vite](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)  
 
+
+
+### Tools
 [Hex Color Picker](https://imagecolorpicker.com/en)  
 [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)  
+
+### Docs
 
