@@ -21,18 +21,17 @@ Hosted Demo: [semesterproject2-angelvik](https://semester-project-2.netlify.app/
 ### Planning: [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)  
 Trello or GitHub Project  
 
-### Design and Prototype : Figma
+### Design and Prototype: Figma
 Figma, Adobe XD or Sketch  
 
 Searched for a Finn.no image to find their color.  
 <img alt="finn-logo-color" src="resources/images/finn.png" width="300">
 
 Used Adobe-Wheel to add a secondary and tertiary color.  
-<img alt="adobe-color-wheel" src="resources/images/color-wheel.png" width="300">
+<img alt="adobe-color-wheel" src="resources/images/color-wheel.png" width="300">  
 
 ### Bundler: Vite
-
-`$ yarn create vite`  
+`$ yarn create vite`   
 `$ cd semester-project-2`  
 `$ yarn`  
 `$ yarn dev`  
@@ -42,27 +41,24 @@ Using `yarn` as package manager, instead of `npm`.
 The reason for this is it allows me to more simply manage `node_modules`,  
 increased speed when installing modules, as well as simplified commands.  
 It might not be as beneficial right now, making small projects,  
-but I wish to implement it in my "routine" early on.
+but I wish to implement it in my "routine" early on.  
 
-### CSS Processor: SASS/SCSS or PostCSS
+### CSS Processor:
 SASS / PostCSS
 ### CSS Framework: TailWind
 Tailwind / Bootstrap
 ### Hosting Services: Netlify
 Netlify / GitHub Pages
-### Planning Application: Trello
-Trello / GitHub Project
 
 ---
 ### Resources
-[Digital Ocean: Vite](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)  
-
+[Digital Ocean: Vite Setup with React](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite#step-2-starting-the-development-server)  
+[Yarn Tailwind Package](https://yarnpkg.com/package/tailwindcss)    
 
 ### Tools
 [Hex Color Picker](https://imagecolorpicker.com/en)  
 [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)  
 
 ### Docs
-[Vite](https://vitejs.dev/guide/features.html)  
-
-
+[Vite](https://vitejs.dev/guide/)  
+[Tailwind](https://tailwindcss.com/docs/guides/vite)    
