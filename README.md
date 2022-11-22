@@ -11,9 +11,28 @@ Gantt Chart:
 Design Prototype: [Figma](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=2%3A2&t=H3mrxOhAxbzwXgIE-0)  
 Style Guide: Figma Style Tile
 Kanban Board: [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)  
-Repository: [semesterproject2-1](https://github.com/siljeangelvik/semesterproject2-1)  
-Hosted Demo: [semesterproject2-angelvik](https://semesterproject2-angelvik.netlify.app/)
+Repository: [semester-project-2](https://github.com/siljeangelvik/semester-project-2)  
+Hosted Demo: semester-project-2
 
+---
+## Setup
+
+### Bundler: Vite
+`$ yarn create vite`   
+`$ cd semester-project-2`  
+`$ yarn`  
+`$ yarn dev`  
+`$ yarn run dev --host`  
+
+Using `yarn` as package manager, instead of `npm`.  
+The reason for this is it allows me to more simply manage `node_modules`, increased speed when installing modules, as well as simplified commands.  
+It might not be as beneficial right now, making small projects, but I wish to implement it in my "routine" early on.    
+
+### CSS Processor: SASS/SCSS or PostCSS
+### CSS Framework: TailWind or Bootstrap
+### Hosting Services: Netlify or GitHub Pages
+### Design Application: Figma, Adobe XD or Sketch
+### Planning Application: Trello or GitHub Projects
 
 ## Design
 Searched for a Finn.no image to find their color.  
@@ -25,12 +44,13 @@ Used Adobe-Wheel to add a secondary and tertiary color.
 ---
 ### Resources
 [Digital Ocean: Vite](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)  
-
-
+[Digital Ocean: Vite Setup with React](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite#step-2-starting-the-development-server)  
+[Yarn Tailwind Package](https://yarnpkg.com/package/tailwindcss)  
 
 ### Tools
 [Hex Color Picker](https://imagecolorpicker.com/en)  
 [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)  
 
 ### Docs
-
+[Vite](https://vitejs.dev/guide/)  
+[Tailwind](https://tailwindcss.com/docs/guides/vite)  
