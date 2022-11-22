@@ -1,8 +1,9 @@
 # Semester Project 2
-_semester-project-2_
+_semester-project-2_  
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8351bb72-cb2f-4acd-9641-31a9d3ca7da8/deploy-status)](https://app.netlify.com/sites/angelvik-semester-project-2/deploys)      
-`GitHub Pages`: ![main](https://github.com/siljeangelvik/semester-project-2/actions/workflows/pages.yml/badge.svg)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eccbfa2e-f635-4c38-97d1-c45f18c73235/deploy-status?branch=production)](https://app.netlify.com/sites/angelvik-semester-project-2/deploys)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eccbfa2e-f635-4c38-97d1-c45f18c73235/deploy-status?branch=main)](https://app.netlify.com/sites/angelvik-semester-project-2/deploys)    
+`GitHub Pages`: ![main](https://github.com/siljeangelvik/semester-project-2/actions/workflows/pages.yml/badge.svg)    
 
 ### Resources
 
@@ -12,7 +13,7 @@ Design Prototype: [Figma Prototype](https://www.figma.com/file/UyExWTgQEUySgt6Id
 Style Guide: Figma Style Tile  
 Kanban Board: [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)    
 Repository: [semester-project-2](https://github.com/siljeangelvik/semester-project-2)    
-Hosted Demo: [angelvik-semester-project-2](https://angelvik-semester-project-2.netlify.app/)  
+Hosted Demo: [angelvik-semester-project-2](https://angelvik-semester-project-2.netlify.app/)   
 
 ---
 
