@@ -3,18 +3,17 @@ _semester-project-2_
 
 ![Deploy](https://github.com/siljeangelvik/semester-project-2/actions/workflows/pages.yml/badge.svg)  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/eccbfa2e-f635-4c38-97d1-c45f18c73235/deploy-status?branch=main)](https://app.netlify.com/sites/angelvik-semester-project-2/deploys)  
-[![Netlify Status](https://api.netlify.com/api/v1/badges/eccbfa2e-f635-4c38-97d1-c45f18c73235/deploy-status?branch=production)](https://app.netlify.com/sites/angelvik-semester-project-2/deploys)    
 
 ### Resources
 
-**Project Brief:** [Noroff](https://noroff-content.gitlab.io/feu/semester-project-2/brief.html)    
-**Gantt Chart:** ['Homemade' ](./resources/ganttchart/ganttchart.html)      
-**Design Prototype:** [Figma Prototype](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=2%3A2&t=mDinNQ9qvMrSpASj-0)    
-**Style Guide:** [Figma Style Tile](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=0%3A1&t=mDinNQ9qvMrSpASj-0)    
-**Kanban Board:** [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)    
-**GitHub Repository:** [semester-project-2](https://github.com/siljeangelvik/semester-project-2)    
-**Hosted Demo Netlify:** [angelvik-semester-project-2](https://angelvik-semester-project-2.netlify.app/)   
-**Hosted Demo GitHub Pages:** [semester-project-2](https://siljeangelvik.github.io/semester-project-2/)  
+Project Brief: [Noroff](https://noroff-content.gitlab.io/feu/semester-project-2/brief.html)    
+Gantt Chart: ['Homemade' ](./resources/ganttchart/ganttchart.html)      
+Design Prototype: [Figma Prototype](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=2%3A2&t=mDinNQ9qvMrSpASj-0)    
+Style Guide: [Figma Style Tile](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=0%3A1&t=mDinNQ9qvMrSpASj-0)    
+Kanban Board: [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)    
+GitHub Repository: [semester-project-2](https://github.com/siljeangelvik/semester-project-2)    
+Hosted Demo Netlify: [angelvik-semester-project-2](https://angelvik-semester-project-2.netlify.app/)   
+Hosted Demo GitHub Pages: [semester-project-2](https://siljeangelvik.github.io/semester-project-2/)  
 ---
 
 ## Getting started
