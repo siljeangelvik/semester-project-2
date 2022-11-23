@@ -5,9 +5,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ main ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ main ]
 
 jobs:
   build:
@@ -28,8 +28,9 @@ jobs:
           cache: 'yarn'
       - run: yarn install --immutable --immutable-cache --check-cache
       - run: yarn run build
-      - name: Deploy
-        uses: peaceiris/actions-production@v3
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: '.'
+          publish_dir: ./dist
