@@ -1,19 +1,25 @@
 import { defineConfig } from "vite";
+import alias from '@rollup/plugin-alias'
+import { resolve } from 'path'
 
-const path = require("path");
+const projectRootDir = resolve(__dirname);
 
-export default defineConfig({
-    base: '/',
-    root: path.resolve(__dirname, "./"),
-    resolve: {
-        alias: {}
-    },
+module.exports = defineConfig({
+    plugins: [
+        alias({
+            entries: [{
+                find: '@',
+                replacement: resolve(projectRootDir, 'src')
+            }]
+        })
+    ],
     server: {
-        port: 8080,
-        host: true
+        host: '0.0.0.0',
+        port: 5173,
+        open: false,
+        cors: true
     },
     build: {
-        outDir: "./dist"
+        outDir: "dist"
     },
-    plugins: []
 })
