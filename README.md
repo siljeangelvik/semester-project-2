@@ -14,7 +14,7 @@ _semester-project-2_
 **Kanban Board:** [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)    
 **GitHub Repository:** [semester-project-2](https://github.com/siljeangelvik/semester-project-2)    
 **Hosted Demo Netlify:** [angelvik-semester-project-2](https://angelvik-semester-project-2.netlify.app/)   
-**Hosted Demo GitHub Pages:**  
+**Hosted Demo GitHub Pages:** [semester-project-2](https://siljeangelvik.github.io/semester-project-2/)  
 ---
 
 ## Getting started
@@ -70,6 +70,7 @@ but I wish to implement it in my "routine" early on.
 [Yarn Install Commands](https://classic.yarnpkg.com/en/docs/cli/install)  
 [GanttCharts](https://developers.google.com/chart/interactive/docs/gallery/ganttchart)    
 [Netlify 'Page Not Found'](https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125/16?utm_source=404page&utm_campaign=community_tracking)  
+[GitHub non-blocking-pre-bundling](https://github.com/vitejs/vite/pull/6758)  
 
 ### Tools
 [Hex Color Picker](https://imagecolorpicker.com/en)  

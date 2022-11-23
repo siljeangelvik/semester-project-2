@@ -1,4 +1,12 @@
 # Reminder Notes
+## errors & warnings  
+
+### MIME-type
+**Error:**  
+Loading module from “https://siljeangelvik.github.io/main.js” was blocked because of a disallowed MIME type (“text/html”).  
+**Warning:**  
+Loading failed for the module with source “https://siljeangelvik.github.io/main.js”.  
+<img alt="mime-type" src="./images/mime-type.png" width="300">  
 
 ## git
 ### create a new branch
