@@ -25,11 +25,11 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
-          cache: 'npm'
+          cache: 'yarn'
       - run: yarn install --immutable --immutable-cache --check-cache
       - run: yarn run build
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-production@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: '.'

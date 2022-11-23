@@ -1,7 +1,7 @@
 # Semester Project 2
 _semester-project-2_  
 
-![Deploy](https://github.com/siljeangelvik/semester-project-2/actions/workflows/pages.yml/badge.svg)  
+![Deploy](https://github.com/siljeangelvik/semester-project-2/actions/workflows/node.js.yml/badge.svg)  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/eccbfa2e-f635-4c38-97d1-c45f18c73235/deploy-status?branch=main)](https://app.netlify.com/sites/angelvik-semester-project-2/deploys)  
 
 ### Resources
