@@ -7,34 +7,17 @@ _semester-project-2_
 
 ### Resources
 
-Project Brief: [Noroff](https://noroff-content.gitlab.io/feu/semester-project-2/brief.html#required-links)    
-Gantt Chart: ['Homemade' ](resources/ganttchart/ganttchart.html)      
-Design Prototype: [Figma Prototype](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=2%3A2&t=H3mrxOhAxbzwXgIE-0)    
-Style Guide: Figma Style Tile  
-Kanban Board: [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)    
-Repository: [semester-project-2](https://github.com/siljeangelvik/semester-project-2)    
-Hosted Demo: [angelvik-semester-project-2](https://angelvik-semester-project-2.netlify.app/)   
-
+**Project Brief:** [Noroff](https://noroff-content.gitlab.io/feu/semester-project-2/brief.html)    
+**Gantt Chart:** ['Homemade' ](./resources/ganttchart/ganttchart.html)      
+**Design Prototype:** [Figma Prototype](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=2%3A2&t=mDinNQ9qvMrSpASj-0)    
+**Style Guide:** [Figma Style Tile](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=0%3A1&t=mDinNQ9qvMrSpASj-0)    
+**Kanban Board:** [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)    
+**Repository:** [semester-project-2](https://github.com/siljeangelvik/semester-project-2)    
+**Hosted Demo Netlify:** [angelvik-semester-project-2](https://angelvik-semester-project-2.netlify.app/)   
+**Hosted Demo GitHub Pages:**  
 ---
 
 ## Getting started
-
-> creating a new `feature-branch`:  
-`$ git checkout -b <new-feature-branch>`   
-
-> git merge:  
-**_assumes that the start point is in the `new-feature-branch`_**  
-`$ git checkout main`  
-**_checking just in case_**  
-`$ git status`  
-**_merging `new-feature-branch` **into** `main`_**  
-`$ git merge <new-feature-branch>`  
-* **note:** want to make an `onMerge` workflow  
-
-> git push:  
-**_assumes that the start point is in the branch we want to `push`_**  
-`$ git push -u origin <remote-branch>`    
-* **note:** I want `onPush` workflow to deploy to the hosting service  
 
 ### Planning: [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)  
 Trello or GitHub Project  
@@ -85,7 +68,8 @@ but I wish to implement it in my "routine" early on.
 [Setup Tailwind with Yarn](https://dev.to/ashirbadgudu/set-up-tailwind-css-with-create-react-app-and-yarn-pio)  
 [Uninstall Package npm](https://www.freecodecamp.org/news/npm-uninstall-how-to-remove-a-package/)      
 [Yarn Install Commands](https://classic.yarnpkg.com/en/docs/cli/install)  
-[GanttCharts](https://developers.google.com/chart/interactive/docs/gallery/ganttchart)  
+[GanttCharts](https://developers.google.com/chart/interactive/docs/gallery/ganttchart)    
+[Netlify 'Page Not Found'](https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125/16?utm_source=404page&utm_campaign=community_tracking)  
 
 ### Tools
 [Hex Color Picker](https://imagecolorpicker.com/en)  
@@ -100,3 +84,4 @@ but I wish to implement it in my "routine" early on.
 [Tailwind with Vite](https://tailwindcss.com/docs/guides/vite)      
 [Tailwind](https://tailwindcss.com/docs/installation)    
 [PostCSS](https://postcss.org/)    
+[Noroff API Endpoints](https://api.noroff.dev/docs/static/index.html)  
