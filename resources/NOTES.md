@@ -8,9 +8,9 @@
 
 ### MIME-type (ONLY on GitHub Pages, Netlify Demo is working fine.)
 **Error:**  
-Loading module from “https://siljeangelvik.github.io/main.mjs” was blocked because of a disallowed MIME type (“text/html”).  
+Loading module from “https://siljeangelvik.github.io/main.js” was blocked because of a disallowed MIME type (“text/html”).  
 **Warning:**  
-Loading failed for the module with source “https://siljeangelvik.github.io/main.mjs”.  
+Loading failed for the module with source “https://siljeangelvik.github.io/main.js”.  
 <img alt="mime-type" src="./images/mime-type.png" width="300">    
 _are SVG compatible with HTML5?_  HTML4 is obviously [very compatible](https://www.w3.org/TR/2000/CR-SVG-20000802/CR-SVG-20000802.pdf), no info on HTML5  
 
