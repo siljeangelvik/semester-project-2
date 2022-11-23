@@ -72,6 +72,9 @@ but I wish to implement it in my "routine" early on.
 ### Tools
 [Hex Color Picker](https://imagecolorpicker.com/en)  
 [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)  
+[Gantt Chart](https://webdesign.tutsplus.com/tutorials/build-a-simple-gantt-chart-with-css-and-javascript--cms-33813)  
+[CodePen Gantt Chart](https://codepen.io/tutsplus/pen/ZEzerNB)  
+[Weekly Calendar](https://www.ukekalender.no/)  
 
 ### Docs
 [Vite](https://vitejs.dev/guide/features.html)    
