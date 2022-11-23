@@ -18,6 +18,9 @@ In **Chrome** I get the same, maybe slightly more information?
 <img alt="chrome-mime-type" src="./images/chrome-mime-type.png" width="300">  
 
 
+https://github.blog/changelog/2021-04-27-github-pages-permissions-policy-interest-cohort-header-added-to-all-pages-sites/  
+
+
 ---
 
 ## git
