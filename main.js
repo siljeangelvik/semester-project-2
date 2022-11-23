@@ -12,7 +12,7 @@ document.querySelector('#app').innerHTML = `
     </a>
     <h1>Hello Vite!</h1>
     <p><a href="./src/index.html">Index HTML</a></p>
-       <p><a href="./resources/ganttchart.html">Gantt Chart</a></p>
+       <p><a href="resources/ganttchart/ganttchart.html">Gantt Chart</a></p>
 
     <div class="card">
       <button id="counter" type="button"></button>
