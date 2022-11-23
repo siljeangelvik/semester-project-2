@@ -8,7 +8,7 @@ _semester-project-2_
 ### Resources
 
 Project Brief: [Noroff](https://noroff-content.gitlab.io/feu/semester-project-2/brief.html#required-links)    
-Gantt Chart:    
+Gantt Chart: ['Homemade' ](resources/ganttchart/ganttchart.html)      
 Design Prototype: [Figma Prototype](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=2%3A2&t=H3mrxOhAxbzwXgIE-0)    
 Style Guide: Figma Style Tile  
 Kanban Board: [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)    
@@ -68,10 +68,14 @@ but I wish to implement it in my "routine" early on.
 [Setup Tailwind with Yarn](https://dev.to/ashirbadgudu/set-up-tailwind-css-with-create-react-app-and-yarn-pio)  
 [Uninstall Package npm](https://www.freecodecamp.org/news/npm-uninstall-how-to-remove-a-package/)      
 [Yarn Install Commands](https://classic.yarnpkg.com/en/docs/cli/install)  
+[GanttCharts](https://developers.google.com/chart/interactive/docs/gallery/ganttchart)  
 
 ### Tools
 [Hex Color Picker](https://imagecolorpicker.com/en)  
 [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)  
+[Gantt Chart](https://webdesign.tutsplus.com/tutorials/build-a-simple-gantt-chart-with-css-and-javascript--cms-33813)  
+[CodePen Gantt Chart](https://codepen.io/tutsplus/pen/ZEzerNB)  
+[Weekly Calendar](https://www.ukekalender.no/)  
 
 ### Docs
 [Vite](https://vitejs.dev/guide/features.html)    
