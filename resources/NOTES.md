@@ -1,25 +1,29 @@
 # Reminder Notes
 
-### markdown
-[README](/README.md)    
-[BRIEF](/resources/BRIEF.md)  
-
 ## git
-> creating a new `feature-branch`:  
-`$ git checkout -b <new-feature-branch>`
+### create a new branch
+creating a new **feature-branch**:    
+`$ git checkout -b <feature-branch>`  
 
-> git merge:  
-**_assumes that the start point is in the `new-feature-branch`_**  
-`$ git checkout main`  
-**_checking just in case_**  
+### merge branch
+go to the branch you want to **merge** with:  
+`$ git checkout main`    
+check **status** of current **branch**:   
 `$ git status`  
-**_merging `new-feature-branch` **into** `main`_**  
-`$ git merge <new-feature-branch>`
-* **note:** want to make an `onMerge` workflow
+merge **feature-branch** into **main** branch:  
+`$ git merge <feature-branch>`  
 
-> git push:  
-**_assumes that the start point is in the branch we want to `push`_**  
-`$ git push -u origin <remote-branch>`
-* **note:** I want `onPush` workflow to deploy to the hosting service    
+_**note:** want to make an `onMerge` workflow_  
 
-## ..
+### push local branch to remote branch
+standing in the branch you want to **push** to remote:    
+`$ git push -u origin <remote-branch>`    
+
+_**note:** I want `onPush` workflow to deploy to the hosting service_      
+
+### delete local and remote branch
+remove a **local branch:**    
+`$ git branch -d <local-branch>`    
+
+remove a **remote branch:**    
+`$ git push origin -d <remote-branch>`
