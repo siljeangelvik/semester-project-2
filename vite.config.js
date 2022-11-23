@@ -1,10 +1,12 @@
 import { defineConfig } from "vite";
 
+const path = require("path");
+
 export default defineConfig({
     base: '/',
     root: path.resolve(__dirname, "./"),
     resolve: {
-      alias: {}
+        alias: {}
     },
     server: {
         port: 8080,
