@@ -1,0 +1,28 @@
+{
+  "name": "semester-project-2",
+  "version": "0.0.0",
+  "main": "main.mjs",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "help": "vite -h",
+    "help:build": "vite build -h",
+    "serve:example": "vite --config build/vite.config.js"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "client",
+    "javascript"
+  ],
+  "author": "Silje Angelvik",
+  "license" : "(ISC OR GPL-3.0)",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4",
+    "vite": "^3.2.3"
+  }
+}
