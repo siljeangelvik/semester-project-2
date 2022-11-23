@@ -17,9 +17,9 @@ _are SVG compatible with HTML5?_  HTML4 is obviously [very compatible](https://w
 In **Chrome** I get the same, maybe slightly more information?  
 <img alt="chrome-mime-type" src="./images/chrome-mime-type.png" width="300">  
 
-
-https://github.blog/changelog/2021-04-27-github-pages-permissions-policy-interest-cohort-header-added-to-all-pages-sites/  
-
+Error in Web Console:  
+https://github.blog/changelog/2021-04-27-github-pages-permissions-policy-interest-cohort-header-added-to-all-pages-sites/    
+[Mozilla HTTP Observatory Test](https://observatory.mozilla.org/analyze/siljeangelvik.github.io)  
 
 ---
 
