@@ -11,6 +11,14 @@
     "help:build": "vite build -h",
     "serve:example": "vite --config build/vite.config.js"
   },
+  "keywords": [
+    "social",
+    "media",
+    "client",
+    "javascript"
+  ],
+  "author": "Silje Angelvik",
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.19",
