@@ -1,4 +1,6 @@
 import './src/css/style.css';
+import './javascript.svg';
+import './public/vite.svg';
 import { setupCounter } from './counter.js';
 
 document.querySelector('#app').innerHTML = `
@@ -16,7 +18,8 @@ document.querySelector('#app').innerHTML = `
     <p class="read-the-docs">
       Click on the Vite logo to learn more
     </p>
+    <p><a href="./resources/ganttchart/ganttchart.html">Gantt Chart</a></p>
   </div>
-`
+`;
 
 setupCounter(document.querySelector('#counter'))
