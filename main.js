@@ -1,7 +1,7 @@
-import '/src/css/style.css';
-import '/src/css/index.css';
-import javascriptLogo from '/src/assets/javascript.svg';
-import {setupCounter} from '/src/js/counter.js';
+import './src/css/style.css';
+import './src/css/index.css';
+import javascriptLogo from './src/assets/javascript.svg';
+import {setupCounter} from './src/js/counter.js';
 
 document.querySelector('#app').innerHTML = `
   <div>
@@ -12,8 +12,8 @@ document.querySelector('#app').innerHTML = `
       <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
     </a>
     <h1>Hello Vite!</h1>
-    <p><a href="/index.html">Index HTML</a></p>
-    <p><a href="/resources/ganttchart/ganttchart.html">Gantt Chart</a></p>
+    <p><a href="./index.html">Index HTML</a></p>
+    <p><a href="./resources/ganttchart/ganttchart.html">Gantt Chart</a></p>
 
     <div class="card">
       <button id="counter" type="button"></button>
