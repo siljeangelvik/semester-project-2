@@ -12,7 +12,7 @@ _semester-project-2_
 **Design Prototype:** [Figma Prototype](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=2%3A2&t=mDinNQ9qvMrSpASj-0)    
 **Style Guide:** [Figma Style Tile](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=0%3A1&t=mDinNQ9qvMrSpASj-0)    
 **Kanban Board:** [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)    
-**Repository:** [semester-project-2](https://github.com/siljeangelvik/semester-project-2)    
+**GitHub Repository:** [semester-project-2](https://github.com/siljeangelvik/semester-project-2)    
 **Hosted Demo Netlify:** [angelvik-semester-project-2](https://angelvik-semester-project-2.netlify.app/)   
 **Hosted Demo GitHub Pages:**  
 ---
