@@ -1,4 +1,9 @@
 # Reminder Notes
+
+### add to package.json - scripts:  
+"build:lib": "vite build --config build/vite.config.lib.js"
+
+
 ## errors & warnings  
 
 ### MIME-type
@@ -6,7 +11,12 @@
 Loading module from “https://siljeangelvik.github.io/main.js” was blocked because of a disallowed MIME type (“text/html”).  
 **Warning:**  
 Loading failed for the module with source “https://siljeangelvik.github.io/main.js”.  
-<img alt="mime-type" src="./images/mime-type.png" width="300">  
+<img alt="mime-type" src="./images/mime-type.png" width="300">    
+_are SVG compatible with HTML5?_  HTML4 is obviously [very compatible](https://www.w3.org/TR/2000/CR-SVG-20000802/CR-SVG-20000802.pdf), no info on HTML5  
+
+
+
+---
 
 ## git
 ### create a new branch

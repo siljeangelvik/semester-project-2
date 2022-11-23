@@ -2,11 +2,13 @@
   "name": "semester-project-2",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "help": "vite -h",
+    "help:build": "vite build -h",
+    "serve:example": "vite --config build/vite.config.js"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",

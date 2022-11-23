@@ -71,6 +71,9 @@ but I wish to implement it in my "routine" early on.
 [GanttCharts](https://developers.google.com/chart/interactive/docs/gallery/ganttchart)    
 [Netlify 'Page Not Found'](https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125/16?utm_source=404page&utm_campaign=community_tracking)  
 [GitHub non-blocking-pre-bundling](https://github.com/vitejs/vite/pull/6758)  
+[MDN Image File Type](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types#svg_scalable_vector_graphics)  
+[Diagrams with Markdown](https://support.typora.io/Draw-Diagrams-With-Markdown/)  
+[Mermaid Gantt Chart](https://mermaid-js.github.io/mermaid/#/gantt)  
 
 ### Tools
 [Hex Color Picker](https://imagecolorpicker.com/en)  
@@ -78,6 +81,7 @@ but I wish to implement it in my "routine" early on.
 [Gantt Chart](https://webdesign.tutsplus.com/tutorials/build-a-simple-gantt-chart-with-css-and-javascript--cms-33813)  
 [CodePen Gantt Chart](https://codepen.io/tutsplus/pen/ZEzerNB)  
 [Weekly Calendar](https://www.ukekalender.no/)  
+[Figma MaterialUI](https://www.figma.com/file/9Y7nYl32jIKIdtJva0nV3I/Material-Design-2-UI-Kit-(Community)?node-id=242%3A26868&t=WKkrOvK0tAw9yE2U-0)  
 
 ### Docs
 [Vite](https://vitejs.dev/guide/features.html)    
