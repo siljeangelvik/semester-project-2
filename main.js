@@ -1,7 +1,7 @@
-import './src/css/style.css';
-import './src/css/index.css';
-import javascriptLogo from './src/assets/javascript.svg';
-import {setupCounter} from './src/js/counter.js';
+import '/src/css/style.css';
+import '/src/css/index.css';
+import javascriptLogo from '/src/assets/javascript.svg';
+import {setupCounter} from '/src/js/counter.js';
 
 document.querySelector('#app').innerHTML = `
   <div>
