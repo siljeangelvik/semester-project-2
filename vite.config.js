@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-    base: '/semester-project-2/',
+    base: '/',
     root: path.resolve(__dirname, "./"),
     resolve: {
       alias: {}
