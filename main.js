@@ -19,6 +19,7 @@ document.querySelector('#app').innerHTML = `
     <p class="read-the-docs">
       Click on the Vite logo to learn more
     </p>
+        <p><a href="./src/ganttchart.html">Gantt Chart</a></p>
         <p><a href="${createChart}">Gantt Chart</a></p>
     <p><a href="https://angelvik-semester-project-2.netlify.app/src/ganttchart.html">Gantt Chart</a></p>
   </div>
