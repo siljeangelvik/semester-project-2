@@ -1,6 +1,6 @@
 # Reminder Notes
 
-### Netlify deployment is successful
+### Netlify deployment is half-success
 > path in workflow is correct  
 > path in vite.config.js is correct  
 > path in package.json is correct
