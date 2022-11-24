@@ -5,6 +5,7 @@ import { resolve } from 'path'
 const projectRootDir = resolve(__dirname);
 
 module.exports = defineConfig({
+    root:'src',
     plugins: [
         alias({
             entries: [{
