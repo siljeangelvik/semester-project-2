@@ -9,7 +9,7 @@ module.exports = defineConfig({
         alias({
             entries: [{
                 find: '@',
-                replacement: resolve(projectRootDir, 'src', 'public', 'resources/ganttchart'),
+                replacement: resolve(projectRootDir, 'src'),
             }]
         })
     ],
@@ -20,6 +20,6 @@ module.exports = defineConfig({
         cors: true
     },
     build: {
-        outDir: "dist",
+        outDir: "./",
     },
 })

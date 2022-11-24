@@ -6,7 +6,8 @@ module.exports = {
         "./public/**/*.{html,css,js}",
         "./public/*.{html,css,js}",
         "./src/**/*.{html,css,js}",
-        "./*.{html,css,js}",
+        "./resources/**/*.{html,css,js}",
+        "./resources/*.{html,css,js}",
     ],
     theme: {
         extend: {
