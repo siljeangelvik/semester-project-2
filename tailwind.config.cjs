@@ -2,11 +2,11 @@
 module.exports = {
     content: [
         "./dist/**/*.{html,css,js}",
-        "./dist/*.{html,css,js,svg}",
-        "./public/**/*.{js,css}",
-        "./public/*.{js,css,svg}",
-        "./src/**/*.{js,ts,jsx,tsx,css}",
-        "./*.{html,css,js,svg}",
+        "./dist/*.{html,css,js}",
+        "./public/**/*.{html,css,js}",
+        "./public/*.{html,css,js}",
+        "./src/**/*.{html,css,js}",
+        "./*.{html,css,js}",
     ],
     theme: {
         extend: {

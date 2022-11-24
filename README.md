@@ -81,7 +81,7 @@ but I wish to implement it in my "routine" early on.
 [CodePen Gantt Chart](https://codepen.io/tutsplus/pen/ZEzerNB)  
 [Weekly Calendar](https://www.ukekalender.no/)  
 [Figma MaterialUI](https://www.figma.com/file/9Y7nYl32jIKIdtJva0nV3I/Material-Design-2-UI-Kit-(Community)?node-id=242%3A26868&t=WKkrOvK0tAw9yE2U-0)  
-[Mozilla HTTP Observatory](https://observatory.mozilla.org/analyze/siljeangelvik.github.io)  
+[Mozilla HTTP Observatory](https://observatory.mozilla.org/analyze/siljeangelvik.github.io)     
 
 ### Docs
 [Vite](https://vitejs.dev/guide/features.html)    
@@ -90,3 +90,5 @@ but I wish to implement it in my "routine" early on.
 [Tailwind](https://tailwindcss.com/docs/installation)    
 [PostCSS](https://postcss.org/)    
 [Noroff API Endpoints](https://api.noroff.dev/docs/static/index.html)  
+[Tailwind Content Configuration](https://tailwindcss.com/docs/content-configuration)
+
