@@ -18,7 +18,7 @@ document.querySelector('#app').innerHTML = `
     <p class="read-the-docs">
       Click on the Vite logo to learn more
     </p>
-       <p><a href="../ganttchart.html">Gantt Chart</a></p>
+       <p><a href="ganttchart.html">Gantt Chart</a></p>
 `;
 
 setupCounter(document.querySelector('#counter'))
