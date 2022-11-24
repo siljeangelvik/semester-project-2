@@ -7,7 +7,7 @@ _semester-project-2_
 ### Resources
 
 Project Brief: [Noroff](https://noroff-content.gitlab.io/feu/semester-project-2/brief.html)    
-Gantt Chart: ['Homemade' ](src/ganttchart.html)      
+Gantt Chart: ['Homemade' ](../semester-project-2-notes/ganttchart.html)      
 Design Prototype: [Figma Prototype](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=2%3A2&t=mDinNQ9qvMrSpASj-0)    
 Style Guide: [Figma Style Tile](https://www.figma.com/file/UyExWTgQEUySgt6Id8BKg1/Style-Tile?node-id=0%3A1&t=mDinNQ9qvMrSpASj-0)    
 Kanban Board: [Trello](https://trello.com/b/BqgXk4Ij/semester-project-2)    
