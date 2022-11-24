@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
-import alias from '@rollup/plugin-alias'
-import { resolve } from 'path'
+import alias from '@rollup/plugin-alias';
+import { resolve } from 'path';
 
 const projectRootDir = resolve(__dirname);
 
