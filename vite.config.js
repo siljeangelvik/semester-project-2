@@ -20,6 +20,6 @@ module.exports = defineConfig({
         cors: true
     },
     build: {
-        outDir: "./",
+        outDir: "dist",
     },
 })
