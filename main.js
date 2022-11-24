@@ -18,7 +18,7 @@ document.querySelector('#app').innerHTML = `
     <p class="read-the-docs">
       Click on the Vite logo to learn more
     </p>
-    <p><a href="public/resources/index.html">Gantt Chart</a></p>
+    <p><a href="./src/ganttchart.html">Gantt Chart</a></p>
   </div>
 `;
 
