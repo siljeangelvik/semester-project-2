@@ -21,5 +21,6 @@ module.exports = defineConfig({
     },
     build: {
         outDir: "dist",
+        copyPublicDir: true
     },
 })
