@@ -1,6 +1,6 @@
 import './css/style.css';
-import javascriptLogo from '../public/javascript.svg'
-import viteLogo from '../public/vite.svg';
+import javascriptLogo from '../dist/javascript.svg'
+import viteLogo from '../dist/vite.svg';
 import { setupCounter } from './js/counter.js';
 
 document.querySelector('#app').innerHTML = `
@@ -18,7 +18,7 @@ document.querySelector('#app').innerHTML = `
     <p class="read-the-docs">
       Click on the Vite logo to learn more
     </p>
-       <p><a href="https://semester-project-2-notes.netlify.app">Gantt Chart - Netlify</a></p>
+       <p><a href="ganttchart.html">Gantt Chart</a></p>
 `;
 
 setupCounter(document.querySelector('#counter'))
