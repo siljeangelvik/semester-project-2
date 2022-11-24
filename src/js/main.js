@@ -1,7 +1,7 @@
-import './css/style.css';
-import javascriptLogo from '../javascript.svg'
-import viteLogo from '../vite.svg';
-import { setupCounter } from './js/counter.js';
+import '../css/style.css';
+import javascriptLogo from '../../javascript.svg'
+import viteLogo from '../../vite.svg';
+import { setupCounter } from './counter.js';
 
 document.querySelector('#app').innerHTML = `
   <div>
@@ -18,7 +18,7 @@ document.querySelector('#app').innerHTML = `
     <p class="read-the-docs">
       Click on the Vite logo to learn more
     </p>
-       <p><a href="ganttchart.html">Gantt Chart</a></p>
+       <p><a href="../ganttchart.html">Gantt Chart</a></p>
 `;
 
 setupCounter(document.querySelector('#counter'))
