@@ -1,4 +1,4 @@
-function createChart(e) {
+export function createChart(e) {
     const days = document.querySelectorAll(".chart-values li");
     const tasks = document.querySelectorAll(".chart-bars li");
     const daysArray = [...days];
